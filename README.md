@@ -26,7 +26,7 @@ I have used Tableau for my analysis. The first worksheet shows increasing number
 <img width="798" alt="worksheet1" src="https://user-images.githubusercontent.com/13045656/76639402-71c22b80-6524-11ea-8792-76f2ed4b45cc.PNG">
 
 
-Moving further, I check if the number of death is at the same rate as number of confirmed cases. After visualizing, it came that mortality rate is very low in comparison to the cofirmed cases daily. 
+Moving further, I check if the number of death is at the same rate as number of confirmed cases. After visualizing, it came that mortality rate is very low in comparison to the confirmed cases daily. Also, we can see that the red dots are all over the europe, japan, South korean and usa but the amount of cases there is very less as compared to the China and Italy and therefore the size is small.
 
 
 <img width="797" alt="worksheet2" src="https://user-images.githubusercontent.com/13045656/76639837-3f64fe00-6525-11ea-90f5-c1c7a35cdd21.PNG">
