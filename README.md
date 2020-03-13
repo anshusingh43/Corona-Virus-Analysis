@@ -38,3 +38,5 @@ Since, China was on top of the death count and to further see which provinces of
 <img width="799" alt="worksheet3" src="https://user-images.githubusercontent.com/13045656/76639948-75a27d80-6525-11ea-978b-ccaceb421133.PNG">
 
 I am trying to keep this updated so that I can analyse the updates and pattern. If you would like to check my work on this, you can go to my [Tableau]( https://public.tableau.com/profile/anshusingh#!/vizhome/CoronaVirusAnalysis_15840375259590/totalconfirmedcases) page.
+
+For fun, you can play the button on the right hand side and the changes everyday!
